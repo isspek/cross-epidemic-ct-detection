@@ -52,12 +52,18 @@ python -m code.classification.llm
 ```
 
 ## Dataset
-The anonymized dataset is at `dataset`.
-The list of search queries at `data/search_queries`.
+The anonymized dataset (Zika, Monkeypox, Ebola) is at `dataset`. Due to the X license, we only share the IDs.
+The list of search queries from the related literature at `data/search_queries`.
+
+For the other datasets, please follow the instructions of the dataset owners.
+The other Conspiracy Theory datasets:
+- [COCO](https://link.springer.com/article/10.1007/s42001-023-00200-3)
+- [Non-epidemic](https://dl.acm.org/doi/10.1145/3487553.3524665)
 
 Send an e-mail to `ibarsch@doctor.upv.es` for other requests about the dataset.
 
 ## Citation
-```text
+The citation infomration of our paper:
+```bibtex
 TODO
 ```

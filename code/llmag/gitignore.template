@@ -1,0 +1,9 @@
+.gitignore
+
+*.pyc
+__pycache__
+.ipynb_checkpoints
+
+pylog
+
+settings.py
